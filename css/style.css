@@ -799,8 +799,8 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .post .content h3 a {
-	font-weight: 800;
-	font-size: 18px;
+	font-weight: 600;
+	font-size: 14px;
 }
 
 .post .content .category {
